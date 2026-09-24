@@ -1,7 +1,7 @@
 # gemini-mcpe
 
 A Minecraft **Bedrock Edition** add-on that lets players chat with a
-Gemini-powered AI assistant in-game (`!ai <message>`), with a small,
+Gemini-powered AI assistant in-game (`/scriptevent gemini:ask <message>`), with a small,
 validated set of tools the AI can request (never execute directly).
 
 ```
