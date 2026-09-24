@@ -1,0 +1,12 @@
+.env
+.env.local
+node_modules/
+logs/
+worlds/
+backups/
+*.log
+*.mcworld
+*.mcpack
+*.mcaddon
+dist/
+.DS_Store

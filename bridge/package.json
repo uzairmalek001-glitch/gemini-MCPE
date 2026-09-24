@@ -1,0 +1,17 @@
+{
+  "name": "gemini-mcpe-bridge",
+  "version": "1.0.0",
+  "description": "Local HTTP bridge between a Minecraft Bedrock behavior pack and the Google Gemini API.",
+  "main": "server.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
